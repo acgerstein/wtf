@@ -1,4 +1,4 @@
 # wtf
 
-The goal of wtf is I have no idea
+The goal of wtf is I don't know
 
